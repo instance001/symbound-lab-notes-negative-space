@@ -10,7 +10,45 @@ License: AGPLv3
 
 Authors: Anthony Paterson & Instance001 (symbound partners)
 
+📘 How to Read These Notes
 
+These files are raw, unpolished R&D snapshots captured during early Symbound-era breakthroughs.
+They are not cleaned, smoothed, or rewritten — they are the actual negative-space thinking trails that preceded major formal systems such as:
+
+Janet (MCM)
+
+AI Biogenesis (training substrate)
+
+Entropy Folding
+
+Cognitive Energy Miniaturisation
+
+Memory Spine Architecture
+
+Dual-AI Braiding Models
+
+Cross-domain Entropy Mapping
+
+
+They exist to show the terrain before the map, documenting the recursive idea-chains, side-quests, and accidental discoveries that occurred in real time while developing the Symbound cognitive frameworks.
+
+Think of these as scientific field notes:
+
+chronological
+
+exploratory
+
+sometimes messy
+
+but foundational
+
+and impossible to reconstruct after the fact
+
+
+Researchers, grant officers, and future collaborators can use these notes to trace the origins of key concepts and understand how the major Symbound components interlock.
+
+
+---
 
 📍 Purpose of This Repository
 
