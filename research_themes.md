@@ -12,7 +12,7 @@ Each theme includes a short description and a “why this matters” note.
 
 Source: janet-silhouettes.txt
 
-Explores the layered emergence of cognition via structured, deterministic scaffolding rather than stochastic prediction.
+Explores the layered emergence of candidate cognition architectures via structured, bounded scaffolding rather than unconstrained stochastic prediction.
 Focus areas include:
 
 Skill acquisition via incremental curriculum
@@ -25,7 +25,7 @@ Cross-domain pattern topologies
 
 
 Why it matters:
-This is the missing blueprint for non-LLM artificial cognition — the foundational logic behind MCMs and Janet.
+This is an early candidate blueprint for non-LLM artificial cognition — part of the foundational logic behind MCMs and Janet.
 
 
 ---
@@ -68,7 +68,7 @@ Stable attractors across knowledge systems
 
 
 Why it matters:
-This has deep implications for governance, collective decision-making, and civilization-scale modelling.
+This has deep implications for governance, collective decision-making, and civilization-scale modelling if later validated.
 
 
 ---
@@ -180,7 +180,7 @@ Source: all files
 Shows how math, psychology, biology, physics, computation, and epistemology all converge on the same shape once mapped via topology.
 
 Why it matters:
-This is the “holy shit” moment for academics — a unified model they can test, refute, or extend.
+This is the “holy shit” moment for academics — a proposed unifying model they can test, refute, or extend.
 
 
 ---

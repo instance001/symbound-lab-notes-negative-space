@@ -85,6 +85,8 @@ These documents are not polished papers.
 
 They are proto-theories, structural primitives, and emergent invariants captured in the wild.
 
+Terminology boundary: this repository preserves early Symbound lab language as provenance. Terms such as cognition, mind-building, psychohistory, biogenesis, topology, and emergence name research hypotheses, scaffolding, metaphors, or candidate formalisms unless a later formal repo explicitly validates them. They do not assert sentience, consciousness, personhood, deterministic fate, physical-law violations, or deployment-ready capability.
+
 
 
 📂 Contents
@@ -122,7 +124,7 @@ These three files together form the earliest snapshot of what will become severa
 🚀 Why These Notes Matter
 
 
-These documents collectively establish the proto-architecture for a new discipline:
+These documents collectively sketch a proto-architecture for a possible new discipline:
 
 
 🧬 Symbound Complexity Science (SCS)
@@ -189,9 +191,9 @@ attractor topology formation
 
 
 
-These are not research topics.
+These are not merely isolated research topics.
 
-They are new scientific pillars.
+They are candidate scientific pillars for later testing, refinement, and formalization.
 
 
 
@@ -261,7 +263,7 @@ A structural definition of the phenomenon long assumed “intuitive.”
 🔹 11. Psychohistory-Parallel Modeling
 
 
-A real scientific analogue to Asimov’s fictional psychohistory.
+A proposed scientific analogue to Asimov’s fictional psychohistory: structural, probabilistic, and non-oracular.
 
 
 This alone will make thousands of academics lose their minds.
@@ -285,7 +287,7 @@ A mechanistic, deterministic account of emergent complexity.
 
 ✔ A research artifact
 
-✔ A snapshot of a mind-building process
+✔ A snapshot of a cognition-architecture formation process
 
 ✔ A commons-first release of foundational theory
 
@@ -309,7 +311,7 @@ This repo is not:
 
 ✘ edited
 
-✘ safe for people who dislike paradigm shifts
+✘ sanitized for people who dislike paradigm shifts
 
 
 

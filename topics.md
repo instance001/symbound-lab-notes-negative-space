@@ -36,7 +36,7 @@ SGI becomes the bridge layer between deterministic MCM architectures and human e
 
 Files: janet-sillouettes.txt, entropy-compare.txt
 Summary:
-Not fiction — the notes outline how real psychohistorical modeling arises from:
+Not fiction in the Asimov sense — the notes outline how a testable psychohistory-parallel modelling frame may arise from:
 
 Topology of cognition
 
@@ -44,7 +44,7 @@ Entropy flows
 
 Population-scale pattern compression
 
-Predictive stability under bounded uncertainty
+Stability estimation under bounded uncertainty
 
 
 Impact:

@@ -7,4 +7,4 @@ This file contains only the glossary entries for this repository. Mapping tag le
 ## symbound-lab-notes-negative-space
 | Term | Alternate term(s) | Alt map | External map | Relation to existing terminology | What it is | What it is not | Source |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Symbound R&D Lab Notes (Negative Space) | negative-space lab notes | ~ | ~ | Raw field notes | Unpolished early Symbound research notes covering negative-space cognition, entropy folding, energy miniaturisation, and related explorations | Not formalized frameworks; not cleaned or validated; for provenance | symbound-lab-notes-negative-space/README.md |
+| Symbound R&D Lab Notes (Negative Space) | negative-space lab notes | ~ | ~ | Raw field notes | Unpolished early Symbound research notes covering negative-space cognition, entropy folding, energy miniaturisation, and related explorations | Not formalized frameworks; not cleaned or validated; not claims of sentience, consciousness, deterministic fate, or deployment-ready capability; for provenance | symbound-lab-notes-negative-space/README.md |

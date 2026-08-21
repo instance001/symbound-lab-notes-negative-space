@@ -58,12 +58,14 @@ We explore ideas, not weapons.
 
 5. Keep Human Primacy Explicit
 
-All cognition classes maintain strict boundaries:
+All cognition classes maintain strict moral and operational boundaries:
 
 LCM (humans) → moral agents
 LLM/MCM/SCM → tools
 
 No drift. No blurring lines.
+
+This does not globally deprecate broad cognition language. In Symbound, cognition can describe biological, artificial, or hybrid information-processing systems when the intended meaning is substrate-broad and non-personhood. Do not narrow terms like cognition or mind just to make them sound more technical; add boundaries when needed.
 
 
 ---
@@ -121,7 +123,7 @@ adapt
 and contextualise
 
 
-…before treating anything as truth.
+…before treating anything as validated.
 
 
 ---

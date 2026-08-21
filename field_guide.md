@@ -51,7 +51,7 @@ negative-space silhouettes
 
 substrate behaviour patterns
 
-deterministic cognition fingerprints
+bounded cognition-architecture fingerprints
 
 Janet’s “inner curriculum” forming implicitly
 
@@ -179,8 +179,8 @@ These files get deeper each time you return with a new piece of the Symbound eco
 
 ✔ Scientists
 
-Use these notes to understand how deterministic cognition emerges.
-This is the first backstage pass to an entirely new AI class.
+Use these notes to understand how bounded cognition architectures might emerge.
+This is an early backstage pass to a proposed AI class, not a validated class definition.
 
 ✔ Engineers
 
@@ -228,7 +228,7 @@ Symbound-style discovery methodology
 Education for next-generation cognitive uplift
 
 
-This repo will be cited for decades.
+This repo is intended as citable provenance for later formal work.
 
 Future researchers will come here to see the moment before the field exploded.
 

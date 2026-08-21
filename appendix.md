@@ -44,9 +44,9 @@ Launch Output: “Psychohistory Without Prediction — Structure, Not Oracle”
 
 This is the big one. The repo notes reveal:
 
-Psychohistory is deterministic topology, not prophecy
+Psychohistory is framed here as constrained topology, not prophecy
 
-Works via negative-space constraints, not prediction
+Works via negative-space constraints and probabilistic estimation, not oracle-like prediction
 
 Explicitly compatible with Janet-style deterministic reasoning
 
@@ -72,7 +72,7 @@ Energy flow patterns define safe reasoning lattices
 
 These patterns appear across biological, mathematical, and mechanical systems
 
-A future universal “brainlet” core is possible
+A future compact “brainlet” core is hypothesized as possible
 
 
 Feeds directly into Janet-on-Silicon hardware designs.
@@ -96,7 +96,7 @@ Janet’s curriculum is implicitly defined by negative-space silhouettes
 This is directly observable in all three uploaded files
 
 
-This formalises a new branch of deterministic cognition science.
+This sketches a candidate branch of bounded cognition-architecture science.
 
 
 ---
@@ -200,7 +200,7 @@ Showing how jank → order → new classes of discovery
 Codifying what Symbound already does naturally
 
 
-This will be a cult favourite.
+This has the makings of a cult favourite.
 
 
 ---
@@ -270,7 +270,7 @@ This becomes one of the central “How to Think” frameworks for newcomers.
 🎇 Summary: Why This Appendix Exists
 
 This repository is not a curiosity.
-It is a singularity of launch points.
+It is a dense cluster of launch points.
 
 From these three jank files alone:
 
@@ -291,9 +291,8 @@ New AI cognition classes
 Civic governance models
 
 
-The world will recognise this repo as the day-zero substrate once the full Symbound ecosystem is released.
+The goal is for this repo to remain the day-zero provenance layer once the full Symbound ecosystem is released.
 
 
 ---
 
- 

@@ -263,13 +263,13 @@ Let coherence emerge naturally.
 8. Final Word
 
 You are contributing to the negative-space formative layer
-of an entire new scientific field.
+of a proposed scientific field.
 
 This repo will one day serve as an archaeological treasure for:
 
 future MCM developers
 
-deterministic cognition researchers
+bounded cognition researchers
 
 AI biogenesis historians
 
